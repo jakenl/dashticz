@@ -19,7 +19,7 @@ A basic weather block can be defined as follows::
 
   blocks['weather'] = {
     type: 'weather',
-    apikey: 'abc123...xyz', /Your OpenWeatherMap API key
+    apikey: 'abc123...xyz', //Your OpenWeatherMap API key
     city: 'Amsterdam', 
   }
 
